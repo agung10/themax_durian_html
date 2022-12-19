@@ -1,0 +1,13 @@
+.navigation-style-v2 .container-fluid {
+    padding-left: 90px;
+}
+
+.information-item.info-item-three:after {
+    content: '\f232';
+    font-family: 'Font Awesome 5 Brands';
+}
+
+.footer-copyright .footer-nav a:hover {
+    color: #064635;
+    font-weight: bold;
+}
