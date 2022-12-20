@@ -1,3 +1,17 @@
+.preloader .loader {
+    left: -20px;
+}
+
+.preloader .pre-shadow {
+    height: 9px;
+    top: 70px
+}
+
+.preloader .pre-box {
+    background: none;
+    width: 70px;
+}
+
 .navigation-style-v2 .container-fluid {
     padding-left: 90px;
 }
